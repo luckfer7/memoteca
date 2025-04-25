@@ -14,27 +14,9 @@
     },
     {
       "id": 3,
-      "conteudo": "Angular é o melhor'",
+      "conteudo": "Angular é o melhor porém depende",
       "autoria": "Dev Alura",
-      "modelo": "modelo3"
-    },
-    {
-      "conteudo": "penso, logo gozo.",
-      "autoria": "PUNHETAS, Lucas",
-      "modelo": "modelo2",
-      "id": 4
-    },
-    {
-      "conteudo": "penso, logo gozo.",
-      "autoria": "PUNHETAS, Lucas",
-      "modelo": "modelo2",
-      "id": 5
-    },
-    {
-      "conteudo": "gay",
-      "autoria": "gay mestre",
-      "modelo": "modelo3",
-      "id": 6
+      "modelo": "modelo1"
     }
   ]
 }
